@@ -15,11 +15,11 @@
         </div>
         <div class="card border border-primary">
           <div class="card-body">
-            <h5 class="card-title">Cadastro do departamentos</h5>
+            <h5 class="card-title">Cadastro de categoras</h5>
             <p class="card-text">
-              Aqui cadastra os departamentos
+              Aqui cadastra as categorias
             </p>
-            <a href="/produtos" class="btn btn-primary">Cadastre</a>
+            <a href="/categorias" class="btn btn-primary">Cadastre</a>
           </div>
         </div>
       </div>
